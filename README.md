@@ -4,7 +4,7 @@
 ### This application is an illustration of a well build quiz board containing questions on Javascript set to help learners or programmers revise more on JavaScript.
 
 # BDD 
-* In the quiz board one is supposed to answer all the questions provided:
+* In the quiz board one is supposed to answer all the questions provided:https://github.com/kamadi-douglas/js-quiz-project.git
 * If one ommits to answer one question and answers the rest then you won't score high.
 * Well done, is awarded to one scoring over 80 marks.
 # Known Bugs
