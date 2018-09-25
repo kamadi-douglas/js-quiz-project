@@ -1,0 +1,64 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/z/chien-de-concept-d-affaires-utilisant-l-ordinateur-portable-41372314.jpg");
+    padding-left: 50px;
+    background-repeat: no repeat;
+    background-size: cover;
+}
+.container{
+text-decoration:slateblue; 
+}
+h1 {
+    text-decoration-line: underline;
+    text-align: center;
+    color: green;
+}
+h2 {
+    text-decoration-line: underline;
+    text-align: center;
+	color: blueviolet;
+}
+h3 {
+	color:darkblue;
+}
+body{
+	font-size: 20px;
+	font-family: sans-serif;
+	color:blueviolet; 
+}
+.question{
+	font-weight: 600;
+}
+.answers {
+    margin-bottom: 20px;
+}
+.submit{
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color: purple;
+	color: #fff;
+	border: 0px;
+	border-radius: 3px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+.submit:hover{
+	background-color:green;
+	box-shadow: yellowgreen;
+	
+}
+#result{
+	display:none;
+	width: 500px;
+	text-align: center;
+	color: red;
+	font-size:x-large;
+	border: 3px dotted red;
+	font-family: 'Courier New', Courier, monospace;
+	border-radius:10px;
+	padding-bottom: 20px;
+	padding-top:20px;
+	position:relative;
+	left:400px;
+	background-color:aquamarine;
+}
